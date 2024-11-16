@@ -7,7 +7,7 @@ public class Person {
     double salary;
     boolean isMarried;
     String[] hobbies;
-// bir class da; birden fazla constructor olmasına constructor overloading diyebiliriz.
+// bir class da; birden fazla constructor olmasına constructor overloading olur.
 // 1. Constructor
     public Person(String firstName, String lastName, int age){
         this.firstName = firstName;
